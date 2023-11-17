@@ -408,9 +408,7 @@ h2 {
         animation: none;
     }
 
-    .social-media-icons i,
-    .fas:hover {
+    .social-media-icons i {
         animation: none;
-        transition: none;
     }
 }

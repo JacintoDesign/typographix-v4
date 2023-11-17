@@ -47,7 +47,7 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', set
 // Initialize theme when the script loads
 initializeTheme();
 
-// Navigation
+// Navigation ----------------------------------------
 const nav = document.getElementById('nav');
 const menuIcon = document.querySelector('.menu-icon');
 
